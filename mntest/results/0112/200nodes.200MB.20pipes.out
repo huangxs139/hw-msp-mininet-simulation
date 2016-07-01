@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36519
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes  75.7 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36521
+[  5]  0.0- 0.2 sec  10.0 MBytes  58.3 MBytes/sec
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36523
+[  4]  0.0- 0.1 sec  10.0 MBytes  86.2 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36526
+[  5]  0.0- 0.2 sec  10.0 MBytes  59.9 MBytes/sec
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36528
+[  4]  0.0- 0.2 sec  10.0 MBytes  60.8 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36530
+[  5]  0.0- 0.2 sec  10.0 MBytes  63.0 MBytes/sec
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36532
+[  4]  0.0- 0.2 sec  10.0 MBytes  53.2 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36534
+[  5]  0.0- 0.1 sec  10.0 MBytes  71.9 MBytes/sec
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36536
+[  4]  0.0- 0.1 sec  10.0 MBytes  75.9 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36537
+[  5]  0.0- 0.2 sec  10.0 MBytes  54.5 MBytes/sec
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36540
+[  4]  0.0- 0.1 sec  10.0 MBytes  71.4 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36542
+[  5]  0.0- 0.1 sec  10.0 MBytes  69.5 MBytes/sec
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36544
+[  4]  0.0- 0.1 sec  10.0 MBytes   111 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36546
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36548
+[  4]  0.0- 0.1 sec  10.0 MBytes   108 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36550
+[  5]  0.0- 0.1 sec  10.0 MBytes   112 MBytes/sec
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36552
+[  4]  0.0- 0.1 sec  10.0 MBytes  87.1 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36554
+[  5]  0.0- 0.1 sec  10.0 MBytes   109 MBytes/sec
+[  4] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36556
+[  4]  0.0- 0.1 sec  10.0 MBytes   110 MBytes/sec
+[  5] local 10.0.0.112 port 5001 connected with 10.0.0.111 port 36557
+[  5]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec

@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32793
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes  72.9 MBytes/sec
+[  5] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32797
+[  5]  0.0- 0.1 sec  10.0 MBytes  72.8 MBytes/sec
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32799
+[  4]  0.0- 0.1 sec  10.0 MBytes  79.9 MBytes/sec
+[  5] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32801
+[  5]  0.0- 0.1 sec  10.0 MBytes  77.9 MBytes/sec
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32803
+[  4]  0.0- 0.2 sec  10.0 MBytes  50.0 MBytes/sec
+[  5] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32804
+[  5]  0.0- 0.1 sec  10.0 MBytes  76.7 MBytes/sec
+[  6] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32806
+[  6]  0.0- 0.2 sec  10.0 MBytes  64.3 MBytes/sec
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32807
+[  4]  0.0- 0.1 sec  10.0 MBytes  82.3 MBytes/sec
+[  5] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32810
+[  5]  0.0- 0.2 sec  10.0 MBytes  54.1 MBytes/sec
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32812
+[  4]  0.0- 0.2 sec  10.0 MBytes  63.0 MBytes/sec
+[  5] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32813
+[  5]  0.0- 0.1 sec  10.0 MBytes  84.3 MBytes/sec
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32816
+[  4]  0.0- 0.1 sec  10.0 MBytes   103 MBytes/sec
+[  5] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32818
+[  5]  0.0- 0.2 sec  10.0 MBytes  57.2 MBytes/sec
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32820
+[  4]  0.0- 0.2 sec  10.0 MBytes  61.3 MBytes/sec
+[  5] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32821
+[  5]  0.0- 0.2 sec  10.0 MBytes  64.8 MBytes/sec
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32823
+[  4]  0.0- 0.2 sec  10.0 MBytes  60.8 MBytes/sec
+[  5] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32826
+[  5]  0.0- 0.1 sec  10.0 MBytes  70.5 MBytes/sec
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32828
+[  4]  0.0- 0.2 sec  10.0 MBytes  63.2 MBytes/sec
+[  5] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32830
+[  5]  0.0- 0.1 sec  10.0 MBytes  73.7 MBytes/sec
+[  4] local 10.0.0.110 port 5001 connected with 10.0.0.109 port 32831
+[  4]  0.0- 0.1 sec  10.0 MBytes  81.0 MBytes/sec

@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60507
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.2 sec  10.0 MBytes  58.5 MBytes/sec
+[  5] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60509
+[  5]  0.0- 0.1 sec  10.0 MBytes  71.0 MBytes/sec
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60515
+[  4]  0.0- 0.1 sec  10.0 MBytes  71.8 MBytes/sec
+[  5] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60517
+[  5]  0.0- 0.1 sec  10.0 MBytes  69.0 MBytes/sec
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60519
+[  4]  0.0- 0.3 sec  10.0 MBytes  37.2 MBytes/sec
+[  6] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60521
+[  6]  0.0- 0.1 sec  10.0 MBytes  74.1 MBytes/sec
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60522
+[  4]  0.0- 0.1 sec  10.0 MBytes  76.0 MBytes/sec
+[  5] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60523
+[  5]  0.0- 0.2 sec  10.0 MBytes  60.3 MBytes/sec
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60524
+[  4]  0.0- 0.1 sec  10.0 MBytes  90.6 MBytes/sec
+[  5] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60525
+[  5]  0.0- 0.2 sec  10.0 MBytes  59.9 MBytes/sec
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60527
+[  4]  0.0- 0.1 sec  10.0 MBytes  92.8 MBytes/sec
+[  5] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60530
+[  5]  0.0- 0.2 sec  10.0 MBytes  64.7 MBytes/sec
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60532
+[  4]  0.0- 0.2 sec  10.0 MBytes  53.3 MBytes/sec
+[  5] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60534
+[  5]  0.0- 0.1 sec  10.0 MBytes  68.6 MBytes/sec
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60536
+[  4]  0.0- 0.1 sec  10.0 MBytes  80.6 MBytes/sec
+[  5] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60538
+[  5]  0.0- 0.2 sec  10.0 MBytes  66.3 MBytes/sec
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60540
+[  4]  0.0- 0.2 sec  10.0 MBytes  61.7 MBytes/sec
+[  5] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60542
+[  5]  0.0- 0.1 sec  10.0 MBytes  77.7 MBytes/sec
+[  4] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60544
+[  4]  0.0- 0.1 sec  10.0 MBytes  98.4 MBytes/sec
+[  5] local 10.0.0.124 port 5001 connected with 10.0.0.123 port 60545
+[  5]  0.0- 0.1 sec  10.0 MBytes  68.2 MBytes/sec

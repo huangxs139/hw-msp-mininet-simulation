@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41292
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes  78.8 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41294
+[  5]  0.0- 0.1 sec  10.0 MBytes  91.9 MBytes/sec
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41296
+[  4]  0.0- 0.1 sec  10.0 MBytes  85.2 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41302
+[  5]  0.0- 0.1 sec  10.0 MBytes  96.4 MBytes/sec
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41304
+[  4]  0.0- 0.1 sec  10.0 MBytes   110 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41305
+[  5]  0.0- 0.1 sec  10.0 MBytes   105 MBytes/sec
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41307
+[  4]  0.0- 0.1 sec  10.0 MBytes  83.4 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41308
+[  5]  0.0- 0.1 sec  10.0 MBytes  87.2 MBytes/sec
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41309
+[  4]  0.0- 0.1 sec  10.0 MBytes  90.5 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41310
+[  5]  0.0- 0.1 sec  10.0 MBytes  91.4 MBytes/sec
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41311
+[  4]  0.0- 0.1 sec  10.0 MBytes  91.2 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41313
+[  5]  0.0- 0.1 sec  10.0 MBytes  80.6 MBytes/sec
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41316
+[  4]  0.0- 0.1 sec  10.0 MBytes  86.2 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41318
+[  5]  0.0- 0.1 sec  10.0 MBytes  87.8 MBytes/sec
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41320
+[  4]  0.0- 0.1 sec  10.0 MBytes  92.5 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41322
+[  5]  0.0- 0.1 sec  10.0 MBytes  96.2 MBytes/sec
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41324
+[  4]  0.0- 0.1 sec  10.0 MBytes  68.4 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41327
+[  5]  0.0- 0.1 sec  10.0 MBytes  89.8 MBytes/sec
+[  4] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41328
+[  4]  0.0- 0.1 sec  10.0 MBytes  99.6 MBytes/sec
+[  5] local 10.0.0.194 port 5001 connected with 10.0.0.193 port 41329
+[  5]  0.0- 0.1 sec  10.0 MBytes  95.0 MBytes/sec

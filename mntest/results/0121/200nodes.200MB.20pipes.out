@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43241
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.2 sec  10.0 MBytes  62.6 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43243
+[  5]  0.0- 0.2 sec  10.0 MBytes  57.3 MBytes/sec
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43245
+[  4]  0.0- 0.2 sec  10.0 MBytes  49.5 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43246
+[  5]  0.0- 0.1 sec  10.0 MBytes  87.9 MBytes/sec
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43248
+[  4]  0.0- 0.1 sec  10.0 MBytes  68.7 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43250
+[  5]  0.0- 0.2 sec  10.0 MBytes  66.4 MBytes/sec
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43252
+[  4]  0.0- 0.2 sec  10.0 MBytes  51.3 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43254
+[  5]  0.0- 0.1 sec  10.0 MBytes  70.4 MBytes/sec
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43256
+[  4]  0.0- 0.2 sec  10.0 MBytes  64.6 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43259
+[  5]  0.0- 0.2 sec  10.0 MBytes  61.6 MBytes/sec
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43260
+[  4]  0.0- 0.1 sec  10.0 MBytes  90.9 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43262
+[  5]  0.0- 0.2 sec  10.0 MBytes  63.7 MBytes/sec
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43263
+[  4]  0.0- 0.1 sec  10.0 MBytes  80.7 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43264
+[  5]  0.0- 0.1 sec  10.0 MBytes  88.1 MBytes/sec
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43265
+[  4]  0.0- 0.1 sec  10.0 MBytes  83.5 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43267
+[  5]  0.0- 0.2 sec  10.0 MBytes  59.8 MBytes/sec
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43269
+[  4]  0.0- 0.2 sec  10.0 MBytes  45.8 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43271
+[  5]  0.0- 0.2 sec  10.0 MBytes  63.1 MBytes/sec
+[  4] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43273
+[  4]  0.0- 0.1 sec  10.0 MBytes  74.6 MBytes/sec
+[  5] local 10.0.0.121 port 5001 connected with 10.0.0.120 port 43274
+[  5]  0.0- 0.2 sec  10.0 MBytes  65.2 MBytes/sec

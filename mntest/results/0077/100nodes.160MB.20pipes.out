@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33507
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  8.00 MBytes  77.6 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33542
+[  5]  0.0- 0.1 sec  8.00 MBytes  91.9 MBytes/sec
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33576
+[  4]  0.0- 0.1 sec  8.00 MBytes  72.3 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33608
+[  5]  0.0- 0.1 sec  8.00 MBytes  81.7 MBytes/sec
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33643
+[  4]  0.0- 0.1 sec  8.00 MBytes  99.7 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33678
+[  5]  0.0- 0.1 sec  8.00 MBytes  61.8 MBytes/sec
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33716
+[  4]  0.0- 0.1 sec  8.00 MBytes   109 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33741
+[  5]  0.0- 0.1 sec  8.00 MBytes  93.3 MBytes/sec
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33772
+[  4]  0.0- 0.1 sec  8.00 MBytes  89.7 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33794
+[  5]  0.0- 0.1 sec  8.00 MBytes  63.7 MBytes/sec
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33823
+[  4]  0.0- 0.1 sec  8.00 MBytes  65.5 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33845
+[  5]  0.0- 0.1 sec  8.00 MBytes  82.9 MBytes/sec
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33868
+[  4]  0.0- 0.1 sec  8.00 MBytes  95.5 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33899
+[  5]  0.0- 0.1 sec  8.00 MBytes  64.5 MBytes/sec
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33924
+[  4]  0.0- 0.1 sec  8.00 MBytes  95.0 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 33944
+[  5]  0.0- 0.1 sec  8.00 MBytes  83.1 MBytes/sec
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 34058
+[  4]  0.0- 0.1 sec  8.00 MBytes  99.0 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 34149
+[  5]  0.0- 0.1 sec  8.00 MBytes  93.5 MBytes/sec
+[  4] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 34216
+[  4]  0.0- 0.1 sec  8.00 MBytes  97.0 MBytes/sec
+[  5] local 10.0.0.77 port 5001 connected with 10.0.0.76 port 34254
+[  5]  0.0- 0.1 sec  8.00 MBytes   113 MBytes/sec

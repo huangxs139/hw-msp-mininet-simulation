@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37035
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.0 sec  2.00 MBytes  87.6 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37058
+[  5]  0.0- 0.0 sec  2.00 MBytes  84.4 MBytes/sec
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37088
+[  4]  0.0- 0.0 sec  2.00 MBytes  69.7 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37126
+[  5]  0.0- 0.0 sec  2.00 MBytes  73.2 MBytes/sec
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37169
+[  4]  0.0- 0.0 sec  2.00 MBytes  99.6 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37216
+[  5]  0.0- 0.0 sec  2.00 MBytes  66.6 MBytes/sec
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37270
+[  4]  0.0- 0.0 sec  2.00 MBytes   115 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37321
+[  5]  0.0- 0.0 sec  2.00 MBytes  51.3 MBytes/sec
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37381
+[  4]  0.0- 0.0 sec  2.00 MBytes  83.3 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37425
+[  5]  0.0- 0.0 sec  2.00 MBytes  65.0 MBytes/sec
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37487
+[  4]  0.0- 0.0 sec  2.00 MBytes  58.4 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37546
+[  5]  0.0- 0.0 sec  2.00 MBytes  97.2 MBytes/sec
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37590
+[  4]  0.0- 0.0 sec  2.00 MBytes   100 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37644
+[  5]  0.0- 0.0 sec  2.00 MBytes  60.2 MBytes/sec
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37688
+[  4]  0.0- 0.0 sec  2.00 MBytes  62.6 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37755
+[  5]  0.0- 0.0 sec  2.00 MBytes  59.9 MBytes/sec
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37816
+[  4]  0.0- 0.0 sec  2.00 MBytes  81.3 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37873
+[  5]  0.0- 0.0 sec  2.00 MBytes  80.2 MBytes/sec
+[  4] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37950
+[  4]  0.0- 0.0 sec  2.00 MBytes  97.1 MBytes/sec
+[  5] local 10.0.0.13 port 5001 connected with 10.0.0.12 port 37994
+[  5]  0.0- 0.0 sec  2.00 MBytes  77.7 MBytes/sec

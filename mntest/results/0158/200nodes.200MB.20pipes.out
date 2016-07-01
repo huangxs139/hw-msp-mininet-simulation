@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56737
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes   116 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56739
+[  5]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56741
+[  4]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56743
+[  5]  0.0- 0.1 sec  10.0 MBytes   112 MBytes/sec
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56744
+[  4]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56747
+[  5]  0.0- 0.1 sec  10.0 MBytes   108 MBytes/sec
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56749
+[  4]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56751
+[  5]  0.0- 0.1 sec  10.0 MBytes   105 MBytes/sec
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56752
+[  4]  0.0- 0.1 sec  10.0 MBytes  94.2 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56755
+[  5]  0.0- 0.1 sec  10.0 MBytes  91.4 MBytes/sec
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56757
+[  4]  0.0- 0.1 sec  10.0 MBytes   112 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56759
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56761
+[  4]  0.0- 0.1 sec  10.0 MBytes   109 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56763
+[  5]  0.0- 0.1 sec  10.0 MBytes   116 MBytes/sec
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56765
+[  4]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56767
+[  5]  0.0- 0.1 sec  10.0 MBytes   110 MBytes/sec
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56769
+[  4]  0.0- 0.1 sec  10.0 MBytes   104 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56771
+[  5]  0.0- 0.1 sec  10.0 MBytes   112 MBytes/sec
+[  4] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56773
+[  4]  0.0- 0.1 sec  10.0 MBytes   110 MBytes/sec
+[  5] local 10.0.0.158 port 5001 connected with 10.0.0.157 port 56774
+[  5]  0.0- 0.1 sec  10.0 MBytes   116 MBytes/sec

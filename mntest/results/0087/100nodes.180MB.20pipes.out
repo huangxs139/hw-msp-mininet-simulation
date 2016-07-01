@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 45869
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  9.00 MBytes  92.4 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 45906
+[  5]  0.0- 0.1 sec  9.00 MBytes  91.1 MBytes/sec
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 45961
+[  4]  0.0- 0.1 sec  9.00 MBytes  76.9 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46001
+[  5]  0.0- 0.1 sec  9.00 MBytes  76.0 MBytes/sec
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46028
+[  4]  0.0- 0.1 sec  9.00 MBytes   102 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46070
+[  5]  0.0- 0.1 sec  9.00 MBytes  87.7 MBytes/sec
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46107
+[  4]  0.0- 0.1 sec  9.00 MBytes   105 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46138
+[  5]  0.0- 0.1 sec  9.00 MBytes  99.7 MBytes/sec
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46168
+[  4]  0.0- 0.1 sec  9.00 MBytes  75.4 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46197
+[  5]  0.0- 0.1 sec  9.00 MBytes  74.3 MBytes/sec
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46227
+[  4]  0.0- 0.1 sec  9.00 MBytes  91.6 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46254
+[  5]  0.0- 0.1 sec  9.00 MBytes  83.8 MBytes/sec
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46279
+[  4]  0.0- 0.1 sec  9.00 MBytes  70.4 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46298
+[  5]  0.0- 0.1 sec  9.00 MBytes  91.2 MBytes/sec
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46315
+[  4]  0.0- 0.1 sec  9.00 MBytes  90.6 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46333
+[  5]  0.0- 0.1 sec  9.00 MBytes  64.2 MBytes/sec
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46390
+[  4]  0.0- 0.1 sec  9.00 MBytes   100 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46442
+[  5]  0.0- 0.1 sec  9.00 MBytes   100 MBytes/sec
+[  4] local 10.0.0.87 port 5001 connected with 10.0.0.86 port 46475
+[  4]  0.0- 0.1 sec  9.00 MBytes  98.2 MBytes/sec
+[  5] local 10.0.0.87 port 5001 connected with 10.0.0.88 port 45509
+[  5]  0.0- 0.1 sec  9.00 MBytes   114 MBytes/sec

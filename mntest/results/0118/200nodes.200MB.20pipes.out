@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58857
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.2 sec  10.0 MBytes  61.2 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58858
+[  5]  0.0- 0.1 sec  10.0 MBytes  79.4 MBytes/sec
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58861
+[  4]  0.0- 0.1 sec  10.0 MBytes  81.8 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58863
+[  5]  0.0- 0.2 sec  10.0 MBytes  61.8 MBytes/sec
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58865
+[  4]  0.0- 0.2 sec  10.0 MBytes  66.0 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58866
+[  5]  0.0- 0.1 sec  10.0 MBytes  74.0 MBytes/sec
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58868
+[  4]  0.0- 0.1 sec  10.0 MBytes  70.1 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58871
+[  5]  0.0- 0.1 sec  10.0 MBytes  75.4 MBytes/sec
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58873
+[  4]  0.0- 0.1 sec  10.0 MBytes  83.3 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58875
+[  5]  0.0- 0.2 sec  10.0 MBytes  57.4 MBytes/sec
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58877
+[  4]  0.0- 0.1 sec  10.0 MBytes  81.6 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58878
+[  5]  0.0- 0.2 sec  10.0 MBytes  61.4 MBytes/sec
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58880
+[  4]  0.0- 0.1 sec  10.0 MBytes  73.2 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58883
+[  5]  0.0- 0.1 sec  10.0 MBytes  66.8 MBytes/sec
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58885
+[  4]  0.0- 0.2 sec  10.0 MBytes  62.5 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58887
+[  5]  0.0- 0.2 sec  10.0 MBytes  54.9 MBytes/sec
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58889
+[  4]  0.0- 0.1 sec  10.0 MBytes  83.0 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58891
+[  5]  0.0- 0.2 sec  10.0 MBytes  65.8 MBytes/sec
+[  4] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58893
+[  4]  0.0- 0.1 sec  10.0 MBytes  76.2 MBytes/sec
+[  5] local 10.0.0.118 port 5001 connected with 10.0.0.117 port 58894
+[  5]  0.0- 0.1 sec  10.0 MBytes  67.7 MBytes/sec

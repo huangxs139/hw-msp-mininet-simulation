@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59814
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  7.00 MBytes   103 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59833
+[  5]  0.0- 0.1 sec  7.00 MBytes   104 MBytes/sec
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59852
+[  4]  0.0- 0.1 sec  7.00 MBytes  70.6 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59878
+[  5]  0.0- 0.1 sec  7.00 MBytes  91.9 MBytes/sec
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59898
+[  4]  0.0- 0.1 sec  7.00 MBytes  61.6 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59918
+[  5]  0.0- 0.1 sec  7.00 MBytes  85.5 MBytes/sec
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59936
+[  4]  0.0- 0.1 sec  7.00 MBytes  75.7 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59951
+[  5]  0.0- 0.1 sec  7.00 MBytes  73.8 MBytes/sec
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59972
+[  4]  0.0- 0.1 sec  7.00 MBytes  85.8 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 59996
+[  5]  0.0- 0.1 sec  7.00 MBytes  84.1 MBytes/sec
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60023
+[  4]  0.0- 0.1 sec  7.00 MBytes  59.9 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60050
+[  5]  0.0- 0.1 sec  7.00 MBytes  68.2 MBytes/sec
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60074
+[  4]  0.0- 0.1 sec  7.00 MBytes  64.5 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60091
+[  5]  0.0- 0.1 sec  7.00 MBytes  92.9 MBytes/sec
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60113
+[  4]  0.0- 0.1 sec  7.00 MBytes  75.8 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60225
+[  5]  0.0- 0.1 sec  7.00 MBytes   102 MBytes/sec
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60298
+[  4]  0.0- 0.1 sec  7.00 MBytes  83.4 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60464
+[  5]  0.0- 0.1 sec  7.00 MBytes  84.5 MBytes/sec
+[  4] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60535
+[  4]  0.0- 0.1 sec  7.00 MBytes  91.0 MBytes/sec
+[  5] local 10.0.0.58 port 5001 connected with 10.0.0.57 port 60681
+[  5]  0.0- 0.1 sec  7.00 MBytes  86.0 MBytes/sec

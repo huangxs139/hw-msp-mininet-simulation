@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38511
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes  94.5 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38546
+[  5]  0.0- 0.1 sec  10.0 MBytes  80.7 MBytes/sec
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38575
+[  4]  0.0- 0.1 sec  10.0 MBytes  76.3 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38611
+[  5]  0.0- 0.1 sec  10.0 MBytes  94.1 MBytes/sec
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38638
+[  4]  0.0- 0.1 sec  10.0 MBytes  72.3 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38670
+[  5]  0.0- 0.1 sec  10.0 MBytes  74.3 MBytes/sec
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38698
+[  4]  0.0- 0.1 sec  10.0 MBytes  74.0 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38737
+[  5]  0.0- 0.1 sec  10.0 MBytes  84.8 MBytes/sec
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38764
+[  4]  0.0- 0.1 sec  10.0 MBytes   102 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38788
+[  5]  0.0- 0.1 sec  10.0 MBytes  96.9 MBytes/sec
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38810
+[  4]  0.0- 0.1 sec  10.0 MBytes  92.6 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38844
+[  5]  0.0- 0.1 sec  10.0 MBytes   104 MBytes/sec
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38859
+[  4]  0.0- 0.2 sec  10.0 MBytes  65.7 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38878
+[  5]  0.0- 0.2 sec  10.0 MBytes  64.8 MBytes/sec
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38895
+[  4]  0.0- 0.1 sec  10.0 MBytes   105 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38912
+[  5]  0.0- 0.1 sec  10.0 MBytes   106 MBytes/sec
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 38982
+[  4]  0.0- 0.1 sec  10.0 MBytes   108 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 39058
+[  5]  0.0- 0.1 sec  10.0 MBytes  99.5 MBytes/sec
+[  4] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 39082
+[  4]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  5] local 10.0.0.86 port 5001 connected with 10.0.0.85 port 39105
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec

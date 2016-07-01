@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47357
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.2 sec  10.0 MBytes  47.1 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47360
+[  5]  0.0- 0.1 sec  10.0 MBytes  88.9 MBytes/sec
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47362
+[  4]  0.0- 0.2 sec  10.0 MBytes  55.2 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47364
+[  5]  0.0- 0.2 sec  10.0 MBytes  58.1 MBytes/sec
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47366
+[  4]  0.0- 0.2 sec  10.0 MBytes  64.0 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47367
+[  5]  0.0- 0.1 sec  10.0 MBytes   104 MBytes/sec
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47370
+[  4]  0.0- 0.1 sec  10.0 MBytes  81.2 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47371
+[  5]  0.0- 0.1 sec  10.0 MBytes  98.4 MBytes/sec
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47374
+[  4]  0.0- 0.1 sec  10.0 MBytes  78.8 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47376
+[  5]  0.0- 0.2 sec  10.0 MBytes  60.5 MBytes/sec
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47378
+[  4]  0.0- 0.2 sec  10.0 MBytes  53.0 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47380
+[  5]  0.0- 0.2 sec  10.0 MBytes  58.4 MBytes/sec
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47382
+[  4]  0.0- 0.3 sec  10.0 MBytes  28.7 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47384
+[  5]  0.0- 0.2 sec  10.0 MBytes  65.8 MBytes/sec
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47386
+[  4]  0.0- 0.2 sec  10.0 MBytes  60.3 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47388
+[  5]  0.0- 0.2 sec  10.0 MBytes  63.7 MBytes/sec
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47390
+[  4]  0.0- 0.1 sec  10.0 MBytes  69.1 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47392
+[  5]  0.0- 0.2 sec  10.0 MBytes  47.8 MBytes/sec
+[  4] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47394
+[  4]  0.0- 0.1 sec  10.0 MBytes  80.8 MBytes/sec
+[  5] local 10.0.0.164 port 5001 connected with 10.0.0.163 port 47395
+[  5]  0.0- 0.1 sec  10.0 MBytes  84.8 MBytes/sec

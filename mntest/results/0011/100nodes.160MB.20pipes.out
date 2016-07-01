@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 39965
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  8.00 MBytes   101 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 39986
+[  5]  0.0- 0.1 sec  8.00 MBytes   117 MBytes/sec
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40013
+[  4]  0.0- 0.1 sec  8.00 MBytes  99.8 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40050
+[  5]  0.0- 0.1 sec  8.00 MBytes  97.7 MBytes/sec
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40087
+[  4]  0.0- 0.1 sec  8.00 MBytes   115 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40133
+[  5]  0.0- 0.1 sec  8.00 MBytes   109 MBytes/sec
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40179
+[  4]  0.0- 0.1 sec  8.00 MBytes  86.8 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40236
+[  5]  0.0- 0.1 sec  8.00 MBytes   108 MBytes/sec
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40289
+[  4]  0.0- 0.1 sec  8.00 MBytes   110 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40348
+[  5]  0.0- 0.1 sec  8.00 MBytes   108 MBytes/sec
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40402
+[  4]  0.0- 0.1 sec  8.00 MBytes  83.9 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40461
+[  5]  0.0- 0.1 sec  8.00 MBytes  77.0 MBytes/sec
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40515
+[  4]  0.0- 0.1 sec  8.00 MBytes  96.4 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40569
+[  5]  0.0- 0.1 sec  8.00 MBytes  89.4 MBytes/sec
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40627
+[  4]  0.0- 0.1 sec  8.00 MBytes  99.7 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40674
+[  5]  0.0- 0.1 sec  8.00 MBytes  99.0 MBytes/sec
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40739
+[  4]  0.0- 0.1 sec  8.00 MBytes   115 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40789
+[  5]  0.0- 0.1 sec  8.00 MBytes  55.2 MBytes/sec
+[  4] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40848
+[  4]  0.0- 0.1 sec  8.00 MBytes   101 MBytes/sec
+[  5] local 10.0.0.11 port 5001 connected with 10.0.0.10 port 40910
+[  5]  0.0- 0.1 sec  8.00 MBytes   101 MBytes/sec

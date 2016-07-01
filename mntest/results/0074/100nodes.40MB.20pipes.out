@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49647
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  2.00 MBytes  19.4 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49719
+[  5]  0.0- 0.1 sec  2.00 MBytes  22.6 MBytes/sec
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49754
+[  4]  0.0- 0.0 sec  2.00 MBytes  46.8 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49772
+[  5]  0.0- 0.1 sec  2.00 MBytes  28.3 MBytes/sec
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49798
+[  4]  0.0- 0.1 sec  2.00 MBytes  39.1 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49815
+[  5]  0.0- 0.1 sec  2.00 MBytes  27.1 MBytes/sec
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49833
+[  4]  0.0- 0.0 sec  2.00 MBytes  41.8 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49845
+[  5]  0.0- 0.1 sec  2.00 MBytes  39.5 MBytes/sec
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49857
+[  4]  0.0- 0.1 sec  2.00 MBytes  27.4 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49864
+[  5]  0.0- 0.1 sec  2.00 MBytes  24.8 MBytes/sec
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49879
+[  4]  0.0- 0.1 sec  2.00 MBytes  15.4 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49932
+[  5]  0.0- 0.1 sec  2.00 MBytes  33.2 MBytes/sec
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 49961
+[  4]  0.0- 0.0 sec  2.00 MBytes  50.6 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 50024
+[  5]  0.0- 0.1 sec  2.00 MBytes  21.8 MBytes/sec
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 50033
+[  4]  0.0- 0.0 sec  2.00 MBytes  44.3 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 50099
+[  5]  0.0- 0.1 sec  2.00 MBytes  36.0 MBytes/sec
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 50143
+[  4]  0.0- 0.0 sec  2.00 MBytes  66.8 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 50251
+[  5]  0.0- 0.1 sec  2.00 MBytes  39.0 MBytes/sec
+[  4] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 50414
+[  4]  0.0- 0.0 sec  2.00 MBytes  40.2 MBytes/sec
+[  5] local 10.0.0.74 port 5001 connected with 10.0.0.73 port 50418
+[  5]  0.0- 0.0 sec  2.00 MBytes  55.1 MBytes/sec

@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58363
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.0 sec  2.00 MBytes   110 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58378
+[  5]  0.0- 0.0 sec  2.00 MBytes  83.5 MBytes/sec
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58396
+[  4]  0.0- 0.0 sec  2.00 MBytes  70.4 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58419
+[  5]  0.0- 0.0 sec  2.00 MBytes  86.6 MBytes/sec
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58434
+[  4]  0.0- 0.0 sec  2.00 MBytes  61.9 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58452
+[  5]  0.0- 0.0 sec  2.00 MBytes  67.2 MBytes/sec
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58465
+[  4]  0.0- 0.0 sec  2.00 MBytes  51.0 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58483
+[  5]  0.0- 0.1 sec  2.00 MBytes  24.9 MBytes/sec
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58505
+[  4]  0.0- 0.0 sec  2.00 MBytes  43.7 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58523
+[  5]  0.0- 0.0 sec  2.00 MBytes  48.4 MBytes/sec
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58535
+[  4]  0.0- 0.1 sec  2.00 MBytes  35.0 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58553
+[  5]  0.0- 0.0 sec  2.00 MBytes  40.7 MBytes/sec
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58580
+[  4]  0.0- 0.1 sec  2.00 MBytes  24.2 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58597
+[  5]  0.0- 0.0 sec  2.00 MBytes  94.6 MBytes/sec
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58639
+[  4]  0.0- 0.1 sec  2.00 MBytes  30.9 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58800
+[  5]  0.0- 0.1 sec  2.00 MBytes  20.4 MBytes/sec
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 58913
+[  4]  0.0- 0.0 sec  2.00 MBytes  42.3 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 59003
+[  5]  0.0- 0.0 sec  2.00 MBytes  66.2 MBytes/sec
+[  4] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 59082
+[  4]  0.0- 0.0 sec  2.00 MBytes  43.1 MBytes/sec
+[  5] local 10.0.0.56 port 5001 connected with 10.0.0.55 port 59202
+[  5]  0.0- 0.0 sec  2.00 MBytes  48.1 MBytes/sec

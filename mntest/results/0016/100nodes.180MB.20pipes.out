@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 35907
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  9.00 MBytes   113 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 35930
+[  5]  0.0- 0.1 sec  9.00 MBytes  95.3 MBytes/sec
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 35964
+[  4]  0.0- 0.1 sec  9.00 MBytes   111 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36003
+[  5]  0.0- 0.1 sec  9.00 MBytes   105 MBytes/sec
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36042
+[  4]  0.0- 0.1 sec  9.00 MBytes   116 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36095
+[  5]  0.0- 0.1 sec  9.00 MBytes   105 MBytes/sec
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36157
+[  4]  0.0- 0.1 sec  9.00 MBytes  93.4 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36204
+[  5]  0.0- 0.1 sec  9.00 MBytes   109 MBytes/sec
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36262
+[  4]  0.0- 0.1 sec  9.00 MBytes   110 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36318
+[  5]  0.0- 0.1 sec  9.00 MBytes   108 MBytes/sec
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36370
+[  4]  0.0- 0.1 sec  9.00 MBytes  87.2 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36424
+[  5]  0.0- 0.1 sec  9.00 MBytes  85.0 MBytes/sec
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36481
+[  4]  0.0- 0.1 sec  9.00 MBytes  92.4 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36538
+[  5]  0.0- 0.1 sec  9.00 MBytes  94.9 MBytes/sec
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36589
+[  4]  0.0- 0.1 sec  9.00 MBytes  92.4 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36639
+[  5]  0.0- 0.1 sec  9.00 MBytes   115 MBytes/sec
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36708
+[  4]  0.0- 0.1 sec  9.00 MBytes  97.7 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36757
+[  5]  0.0- 0.1 sec  9.00 MBytes   106 MBytes/sec
+[  4] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36813
+[  4]  0.0- 0.1 sec  9.00 MBytes  85.2 MBytes/sec
+[  5] local 10.0.0.16 port 5001 connected with 10.0.0.15 port 36911
+[  5]  0.0- 0.1 sec  9.00 MBytes  91.4 MBytes/sec

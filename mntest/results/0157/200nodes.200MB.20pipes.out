@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38755
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38756
+[  5]  0.0- 0.1 sec  10.0 MBytes  95.3 MBytes/sec
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38758
+[  4]  0.0- 0.1 sec  10.0 MBytes  99.0 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38760
+[  5]  0.0- 0.1 sec  10.0 MBytes  96.5 MBytes/sec
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38762
+[  4]  0.0- 0.1 sec  10.0 MBytes  82.9 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38765
+[  5]  0.0- 0.1 sec  10.0 MBytes  85.2 MBytes/sec
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38766
+[  4]  0.0- 0.1 sec  10.0 MBytes  93.0 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38768
+[  5]  0.0- 0.1 sec  10.0 MBytes  81.5 MBytes/sec
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38770
+[  4]  0.0- 0.1 sec  10.0 MBytes  70.1 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38773
+[  5]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38774
+[  4]  0.0- 0.1 sec  10.0 MBytes   108 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38776
+[  5]  0.0- 0.1 sec  10.0 MBytes  93.7 MBytes/sec
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38778
+[  4]  0.0- 0.1 sec  10.0 MBytes   109 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38780
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38782
+[  4]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38784
+[  5]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38786
+[  4]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38788
+[  5]  0.0- 0.1 sec  10.0 MBytes   107 MBytes/sec
+[  4] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38790
+[  4]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  5] local 10.0.0.157 port 5001 connected with 10.0.0.156 port 38792
+[  5]  0.0- 0.1 sec  10.0 MBytes   108 MBytes/sec

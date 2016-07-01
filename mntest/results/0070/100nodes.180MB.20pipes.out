@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 41936
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  9.00 MBytes  95.3 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 41969
+[  5]  0.0- 0.1 sec  9.00 MBytes  94.8 MBytes/sec
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42014
+[  4]  0.0- 0.1 sec  9.00 MBytes  84.5 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42061
+[  5]  0.0- 0.1 sec  9.00 MBytes  95.3 MBytes/sec
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42088
+[  4]  0.0- 0.1 sec  9.00 MBytes  86.9 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42116
+[  5]  0.0- 0.1 sec  9.00 MBytes  71.0 MBytes/sec
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42145
+[  4]  0.0- 0.1 sec  9.00 MBytes  66.5 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42162
+[  5]  0.0- 0.1 sec  9.00 MBytes  84.7 MBytes/sec
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42179
+[  4]  0.0- 0.1 sec  9.00 MBytes  84.0 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42204
+[  5]  0.0- 0.1 sec  9.00 MBytes  94.5 MBytes/sec
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42230
+[  4]  0.0- 0.1 sec  9.00 MBytes  77.2 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42243
+[  5]  0.0- 0.1 sec  9.00 MBytes  61.8 MBytes/sec
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42277
+[  4]  0.0- 0.1 sec  9.00 MBytes   104 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42308
+[  5]  0.0- 0.1 sec  9.00 MBytes  73.3 MBytes/sec
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42326
+[  4]  0.0- 0.1 sec  9.00 MBytes  84.9 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42360
+[  5]  0.0- 0.1 sec  9.00 MBytes  63.0 MBytes/sec
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42497
+[  4]  0.0- 0.1 sec  9.00 MBytes  91.9 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42602
+[  5]  0.0- 0.1 sec  9.00 MBytes   103 MBytes/sec
+[  4] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42703
+[  4]  0.0- 0.1 sec  9.00 MBytes  88.2 MBytes/sec
+[  5] local 10.0.0.70 port 5001 connected with 10.0.0.69 port 42770
+[  5]  0.0- 0.1 sec  9.00 MBytes  96.0 MBytes/sec

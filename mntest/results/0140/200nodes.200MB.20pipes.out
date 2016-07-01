@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44188
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.2 sec  10.0 MBytes  63.3 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44190
+[  5]  0.0- 0.2 sec  10.0 MBytes  51.2 MBytes/sec
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44192
+[  4]  0.0- 0.2 sec  10.0 MBytes  59.6 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44194
+[  5]  0.0- 0.1 sec  10.0 MBytes  70.5 MBytes/sec
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44196
+[  4]  0.0- 0.1 sec  10.0 MBytes  75.2 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44202
+[  5]  0.0- 0.2 sec  10.0 MBytes  49.1 MBytes/sec
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44204
+[  4]  0.0- 0.1 sec  10.0 MBytes  67.8 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44206
+[  5]  0.0- 0.2 sec  10.0 MBytes  49.9 MBytes/sec
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44212
+[  4]  0.0- 0.1 sec  10.0 MBytes  77.7 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44214
+[  5]  0.0- 0.2 sec  10.0 MBytes  59.9 MBytes/sec
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44216
+[  4]  0.0- 0.1 sec  10.0 MBytes  69.7 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44217
+[  5]  0.0- 0.1 sec  10.0 MBytes  70.0 MBytes/sec
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44218
+[  4]  0.0- 0.1 sec  10.0 MBytes  75.4 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44219
+[  5]  0.0- 0.1 sec  10.0 MBytes  89.3 MBytes/sec
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44220
+[  4]  0.0- 0.2 sec  10.0 MBytes  64.1 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44221
+[  5]  0.0- 0.1 sec  10.0 MBytes  78.3 MBytes/sec
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44222
+[  4]  0.0- 0.1 sec  10.0 MBytes  76.3 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44223
+[  5]  0.0- 0.1 sec  10.0 MBytes  87.3 MBytes/sec
+[  4] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44224
+[  4]  0.0- 0.1 sec  10.0 MBytes  73.0 MBytes/sec
+[  5] local 10.0.0.140 port 5001 connected with 10.0.0.139 port 44225
+[  5]  0.0- 0.1 sec  10.0 MBytes  76.8 MBytes/sec

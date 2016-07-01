@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 38992
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes  95.4 MBytes/sec
+[  5] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 38993
+[  5]  0.0- 0.1 sec  10.0 MBytes  74.0 MBytes/sec
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 38995
+[  4]  0.0- 0.2 sec  10.0 MBytes  41.2 MBytes/sec
+[  5] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 38997
+[  5]  0.0- 0.1 sec  10.0 MBytes  72.3 MBytes/sec
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 38999
+[  4]  0.0- 0.1 sec  10.0 MBytes  76.5 MBytes/sec
+[  5] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39001
+[  5]  0.0- 0.2 sec  10.0 MBytes  51.1 MBytes/sec
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39003
+[  4]  0.0- 0.2 sec  10.0 MBytes  45.4 MBytes/sec
+[  6] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39006
+[  6]  0.0- 0.1 sec  10.0 MBytes  80.5 MBytes/sec
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39008
+[  4]  0.0- 0.1 sec  10.0 MBytes  71.9 MBytes/sec
+[  5] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39009
+[  5]  0.0- 0.1 sec  10.0 MBytes  73.9 MBytes/sec
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39011
+[  4]  0.0- 0.2 sec  10.0 MBytes  55.0 MBytes/sec
+[  5] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39013
+[  5]  0.0- 0.2 sec  10.0 MBytes  60.9 MBytes/sec
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39015
+[  4]  0.0- 0.2 sec  10.0 MBytes  54.0 MBytes/sec
+[  5] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39018
+[  5]  0.0- 0.1 sec  10.0 MBytes  71.4 MBytes/sec
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39019
+[  4]  0.0- 0.1 sec  10.0 MBytes  71.8 MBytes/sec
+[  5] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39022
+[  5]  0.0- 0.2 sec  10.0 MBytes  63.5 MBytes/sec
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39023
+[  4]  0.0- 0.1 sec  10.0 MBytes  85.4 MBytes/sec
+[  5] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39026
+[  5]  0.0- 0.1 sec  10.0 MBytes  84.1 MBytes/sec
+[  4] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39027
+[  4]  0.0- 0.1 sec  10.0 MBytes  89.7 MBytes/sec
+[  5] local 10.0.0.107 port 5001 connected with 10.0.0.106 port 39029
+[  5]  0.0- 0.2 sec  10.0 MBytes  51.1 MBytes/sec

@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38459
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  2.00 MBytes  24.1 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38570
+[  5]  0.0- 0.1 sec  2.00 MBytes  26.4 MBytes/sec
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38583
+[  4]  0.0- 0.0 sec  2.00 MBytes  41.4 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38589
+[  5]  0.0- 0.1 sec  2.00 MBytes  18.6 MBytes/sec
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38618
+[  4]  0.0- 0.0 sec  2.00 MBytes  59.3 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38656
+[  5]  0.0- 0.0 sec  2.00 MBytes  46.6 MBytes/sec
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38666
+[  4]  0.0- 0.0 sec  2.00 MBytes   103 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38682
+[  5]  0.0- 0.1 sec  2.00 MBytes  29.3 MBytes/sec
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38737
+[  4]  0.0- 0.0 sec  2.00 MBytes  78.2 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38766
+[  5]  0.0- 0.0 sec  2.00 MBytes  47.1 MBytes/sec
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38842
+[  4]  0.0- 0.0 sec  2.00 MBytes  50.8 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38853
+[  5]  0.0- 0.0 sec  2.00 MBytes  52.7 MBytes/sec
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38859
+[  4]  0.0- 0.0 sec  2.00 MBytes  74.7 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38896
+[  5]  0.0- 0.1 sec  2.00 MBytes  31.0 MBytes/sec
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38907
+[  4]  0.0- 0.0 sec  2.00 MBytes  48.0 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38931
+[  5]  0.0- 0.0 sec  2.00 MBytes  40.4 MBytes/sec
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 38949
+[  4]  0.0- 0.0 sec  2.00 MBytes  47.7 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 39016
+[  5]  0.0- 0.1 sec  2.00 MBytes  38.6 MBytes/sec
+[  4] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 39144
+[  4]  0.0- 0.0 sec  2.00 MBytes  59.5 MBytes/sec
+[  5] local 10.0.0.81 port 5001 connected with 10.0.0.80 port 39149
+[  5]  0.0- 0.0 sec  2.00 MBytes  71.5 MBytes/sec

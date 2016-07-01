@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60063
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes   109 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60066
+[  5]  0.0- 0.1 sec  10.0 MBytes   108 MBytes/sec
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60068
+[  4]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60070
+[  5]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60072
+[  4]  0.0- 0.1 sec  10.0 MBytes   105 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60074
+[  5]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60076
+[  4]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60078
+[  5]  0.0- 0.1 sec  10.0 MBytes   116 MBytes/sec
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60079
+[  4]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60082
+[  5]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60084
+[  4]  0.0- 0.1 sec  10.0 MBytes   116 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60086
+[  5]  0.0- 0.1 sec  10.0 MBytes   112 MBytes/sec
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60088
+[  4]  0.0- 0.1 sec  10.0 MBytes  83.1 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60090
+[  5]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60091
+[  4]  0.0- 0.1 sec  10.0 MBytes   100 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60093
+[  5]  0.0- 0.1 sec  10.0 MBytes  98.1 MBytes/sec
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60096
+[  4]  0.0- 0.1 sec  10.0 MBytes   104 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60098
+[  5]  0.0- 0.1 sec  10.0 MBytes  75.7 MBytes/sec
+[  4] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60100
+[  4]  0.0- 0.1 sec  10.0 MBytes  83.3 MBytes/sec
+[  5] local 10.0.0.160 port 5001 connected with 10.0.0.159 port 60101
+[  5]  0.0- 0.1 sec  10.0 MBytes  95.5 MBytes/sec

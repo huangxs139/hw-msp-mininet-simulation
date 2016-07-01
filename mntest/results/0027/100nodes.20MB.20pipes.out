@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52136
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.0 sec  1.00 MBytes  39.4 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52209
+[  5]  0.0- 0.0 sec  1.00 MBytes  30.0 MBytes/sec
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52282
+[  4]  0.0- 0.1 sec  1.00 MBytes  6.76 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52291
+[  5]  0.0- 0.0 sec  1.00 MBytes  53.0 MBytes/sec
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52315
+[  4]  0.0- 0.0 sec  1.00 MBytes  38.3 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52341
+[  5]  0.0- 0.0 sec  1.00 MBytes  77.5 MBytes/sec
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52390
+[  4]  0.0- 0.0 sec  1.00 MBytes  41.0 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52449
+[  5]  0.0- 0.0 sec  1.00 MBytes  91.8 MBytes/sec
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52501
+[  4]  0.0- 0.0 sec  1.00 MBytes  58.7 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52581
+[  5]  0.0- 0.0 sec  1.00 MBytes  37.6 MBytes/sec
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52633
+[  4]  0.0- 0.0 sec  1.00 MBytes  39.9 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52685
+[  5]  0.0- 0.0 sec  1.00 MBytes  50.5 MBytes/sec
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52750
+[  4]  0.0- 0.0 sec  1.00 MBytes  50.9 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52795
+[  5]  0.0- 0.0 sec  1.00 MBytes  29.7 MBytes/sec
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52845
+[  4]  0.0- 0.0 sec  1.00 MBytes  85.5 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52905
+[  5]  0.0- 0.0 sec  1.00 MBytes  28.1 MBytes/sec
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 52984
+[  4]  0.0- 0.0 sec  1.00 MBytes  50.6 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 53090
+[  5]  0.0- 0.0 sec  1.00 MBytes  68.7 MBytes/sec
+[  4] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 53211
+[  4]  0.0- 0.0 sec  1.00 MBytes  40.7 MBytes/sec
+[  5] local 10.0.0.27 port 5001 connected with 10.0.0.26 port 53304
+[  5]  0.0- 0.0 sec  1.00 MBytes  31.0 MBytes/sec

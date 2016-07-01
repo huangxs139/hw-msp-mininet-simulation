@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36568
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.0 sec  5.00 MBytes   112 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36593
+[  5]  0.0- 0.0 sec  5.00 MBytes   111 MBytes/sec
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36629
+[  4]  0.0- 0.0 sec  5.00 MBytes   103 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36676
+[  5]  0.0- 0.1 sec  5.00 MBytes  94.1 MBytes/sec
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36714
+[  4]  0.0- 0.1 sec  5.00 MBytes  94.4 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36766
+[  5]  0.0- 0.0 sec  5.00 MBytes   104 MBytes/sec
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36821
+[  4]  0.0- 0.1 sec  5.00 MBytes  83.1 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36881
+[  5]  0.0- 0.1 sec  5.00 MBytes  80.6 MBytes/sec
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36934
+[  4]  0.0- 0.1 sec  5.00 MBytes  96.3 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 36985
+[  5]  0.0- 0.1 sec  5.00 MBytes  97.6 MBytes/sec
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37045
+[  4]  0.0- 0.1 sec  5.00 MBytes  93.8 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37095
+[  5]  0.0- 0.1 sec  5.00 MBytes  92.0 MBytes/sec
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37152
+[  4]  0.0- 0.1 sec  5.00 MBytes  78.0 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37202
+[  5]  0.0- 0.1 sec  5.00 MBytes  90.1 MBytes/sec
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37261
+[  4]  0.0- 0.0 sec  5.00 MBytes   105 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37323
+[  5]  0.0- 0.1 sec  5.00 MBytes  75.8 MBytes/sec
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37372
+[  4]  0.0- 0.1 sec  5.00 MBytes  77.6 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37435
+[  5]  0.0- 0.1 sec  5.00 MBytes  80.0 MBytes/sec
+[  4] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37500
+[  4]  0.0- 0.1 sec  5.00 MBytes  63.5 MBytes/sec
+[  5] local 10.0.0.18 port 5001 connected with 10.0.0.17 port 37615
+[  5]  0.0- 0.1 sec  5.00 MBytes  59.3 MBytes/sec

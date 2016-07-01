@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47046
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.2 sec  10.0 MBytes  64.1 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47048
+[  5]  0.0- 0.1 sec  10.0 MBytes  69.5 MBytes/sec
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47049
+[  4]  0.0- 0.1 sec  10.0 MBytes  89.5 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47052
+[  5]  0.0- 0.1 sec  10.0 MBytes  70.1 MBytes/sec
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47054
+[  4]  0.0- 0.1 sec  10.0 MBytes  81.7 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47056
+[  5]  0.0- 0.1 sec  10.0 MBytes  69.0 MBytes/sec
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47057
+[  4]  0.0- 0.1 sec  10.0 MBytes  96.1 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47060
+[  5]  0.0- 0.1 sec  10.0 MBytes  81.2 MBytes/sec
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47062
+[  4]  0.0- 0.2 sec  10.0 MBytes  64.4 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47064
+[  5]  0.0- 0.1 sec  10.0 MBytes  69.1 MBytes/sec
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47065
+[  4]  0.0- 0.1 sec  10.0 MBytes  87.6 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47068
+[  5]  0.0- 0.1 sec  10.0 MBytes  67.6 MBytes/sec
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47070
+[  4]  0.0- 0.1 sec  10.0 MBytes   102 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47072
+[  5]  0.0- 0.1 sec  10.0 MBytes  86.5 MBytes/sec
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47074
+[  4]  0.0- 0.1 sec  10.0 MBytes  80.3 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47079
+[  5]  0.0- 0.1 sec  10.0 MBytes  86.6 MBytes/sec
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47080
+[  4]  0.0- 0.1 sec  10.0 MBytes  85.5 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47081
+[  5]  0.0- 0.1 sec  10.0 MBytes  88.9 MBytes/sec
+[  4] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47082
+[  4]  0.0- 0.1 sec  10.0 MBytes   100 MBytes/sec
+[  5] local 10.0.0.180 port 5001 connected with 10.0.0.179 port 47083
+[  5]  0.0- 0.1 sec  10.0 MBytes  95.1 MBytes/sec

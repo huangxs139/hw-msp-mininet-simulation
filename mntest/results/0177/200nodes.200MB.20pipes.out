@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46313
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes  92.8 MBytes/sec
+[  5] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46315
+[  5]  0.0- 0.2 sec  10.0 MBytes  57.1 MBytes/sec
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46316
+[  4]  0.0- 0.1 sec  10.0 MBytes  88.9 MBytes/sec
+[  5] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46318
+[  5]  0.0- 0.1 sec  10.0 MBytes  73.6 MBytes/sec
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46321
+[  4]  0.0- 0.1 sec  10.0 MBytes  89.9 MBytes/sec
+[  5] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46322
+[  5]  0.0- 0.1 sec  10.0 MBytes  88.9 MBytes/sec
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46324
+[  4]  0.0- 0.1 sec  10.0 MBytes  95.1 MBytes/sec
+[  5] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46326
+[  5]  0.0- 0.2 sec  10.0 MBytes  62.5 MBytes/sec
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46328
+[  4]  0.0- 0.1 sec  10.0 MBytes  81.5 MBytes/sec
+[  5] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46330
+[  5]  0.0- 0.1 sec  10.0 MBytes  88.0 MBytes/sec
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46332
+[  4]  0.0- 0.1 sec  10.0 MBytes  80.8 MBytes/sec
+[  5] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46334
+[  5]  0.0- 0.2 sec  10.0 MBytes  54.8 MBytes/sec
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46336
+[  4]  0.0- 0.1 sec  10.0 MBytes  69.1 MBytes/sec
+[  5] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46338
+[  5]  0.0- 0.1 sec  10.0 MBytes  76.5 MBytes/sec
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46340
+[  4]  0.0- 0.2 sec  10.0 MBytes  47.7 MBytes/sec
+[  5] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46342
+[  5]  0.0- 0.1 sec  10.0 MBytes  82.1 MBytes/sec
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46344
+[  4]  0.0- 0.2 sec  10.0 MBytes  64.2 MBytes/sec
+[  5] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46346
+[  5]  0.0- 0.2 sec  10.0 MBytes  51.9 MBytes/sec
+[  4] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46347
+[  4]  0.0- 0.1 sec  10.0 MBytes  76.6 MBytes/sec
+[  6] local 10.0.0.177 port 5001 connected with 10.0.0.176 port 46350
+[  6]  0.0- 0.1 sec  10.0 MBytes  94.3 MBytes/sec

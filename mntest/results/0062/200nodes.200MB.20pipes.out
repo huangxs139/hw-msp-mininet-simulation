@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42133
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes   112 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42135
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42137
+[  4]  0.0- 0.1 sec  10.0 MBytes   116 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42139
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42141
+[  4]  0.0- 0.1 sec  10.0 MBytes   116 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42143
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42145
+[  4]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42147
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42149
+[  4]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42151
+[  5]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42153
+[  4]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42155
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42157
+[  4]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42159
+[  5]  0.0- 0.1 sec  10.0 MBytes   110 MBytes/sec
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42161
+[  4]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42163
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42165
+[  4]  0.0- 0.1 sec  10.0 MBytes   115 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42167
+[  5]  0.0- 0.1 sec  10.0 MBytes   112 MBytes/sec
+[  4] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42169
+[  4]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  5] local 10.0.0.62 port 5001 connected with 10.0.0.61 port 42170
+[  5]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec

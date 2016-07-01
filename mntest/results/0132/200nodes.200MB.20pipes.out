@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55043
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes  77.1 MBytes/sec
+[  5] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55044
+[  5]  0.0- 0.1 sec  10.0 MBytes  91.5 MBytes/sec
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55050
+[  4]  0.0- 0.1 sec  10.0 MBytes  69.4 MBytes/sec
+[  5] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55054
+[  5]  0.0- 0.2 sec  10.0 MBytes  57.2 MBytes/sec
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55055
+[  4]  0.0- 0.1 sec  10.0 MBytes  79.8 MBytes/sec
+[  6] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55059
+[  6]  0.0- 0.1 sec  10.0 MBytes   112 MBytes/sec
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55060
+[  4]  0.0- 0.2 sec  10.0 MBytes  63.4 MBytes/sec
+[  5] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55061
+[  5]  0.0- 0.1 sec  10.0 MBytes  93.9 MBytes/sec
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55062
+[  4]  0.0- 0.1 sec  10.0 MBytes  75.8 MBytes/sec
+[  5] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55063
+[  5]  0.0- 0.1 sec  10.0 MBytes  76.4 MBytes/sec
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55065
+[  4]  0.0- 0.1 sec  10.0 MBytes  75.4 MBytes/sec
+[  5] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55067
+[  5]  0.0- 0.1 sec  10.0 MBytes  67.0 MBytes/sec
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55069
+[  4]  0.0- 0.1 sec  10.0 MBytes  71.7 MBytes/sec
+[  5] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55071
+[  5]  0.0- 0.2 sec  10.0 MBytes  54.7 MBytes/sec
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55074
+[  4]  0.0- 0.1 sec  10.0 MBytes  75.5 MBytes/sec
+[  5] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55075
+[  5]  0.0- 0.1 sec  10.0 MBytes  66.9 MBytes/sec
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55076
+[  4]  0.0- 0.1 sec  10.0 MBytes  84.8 MBytes/sec
+[  5] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55077
+[  5]  0.0- 0.1 sec  10.0 MBytes  75.1 MBytes/sec
+[  4] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55078
+[  4]  0.0- 0.1 sec  10.0 MBytes  68.0 MBytes/sec
+[  5] local 10.0.0.132 port 5001 connected with 10.0.0.131 port 55079
+[  5]  0.0- 0.1 sec  10.0 MBytes  89.3 MBytes/sec

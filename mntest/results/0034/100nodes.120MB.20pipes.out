@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49338
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  6.00 MBytes  91.9 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49385
+[  5]  0.0- 0.1 sec  6.00 MBytes   108 MBytes/sec
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49428
+[  4]  0.0- 0.1 sec  6.00 MBytes  90.8 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49490
+[  5]  0.0- 0.1 sec  6.00 MBytes   111 MBytes/sec
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49538
+[  4]  0.0- 0.1 sec  6.00 MBytes  96.8 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49595
+[  5]  0.0- 0.1 sec  6.00 MBytes  77.5 MBytes/sec
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49661
+[  4]  0.0- 0.1 sec  6.00 MBytes   109 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49710
+[  5]  0.0- 0.1 sec  6.00 MBytes  99.2 MBytes/sec
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49757
+[  4]  0.0- 0.1 sec  6.00 MBytes  97.9 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49816
+[  5]  0.0- 0.1 sec  6.00 MBytes  76.8 MBytes/sec
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49870
+[  4]  0.0- 0.1 sec  6.00 MBytes  86.2 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49926
+[  5]  0.0- 0.1 sec  6.00 MBytes  84.9 MBytes/sec
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 49987
+[  4]  0.0- 0.1 sec  6.00 MBytes  91.1 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 50048
+[  5]  0.0- 0.1 sec  6.00 MBytes   104 MBytes/sec
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 50087
+[  4]  0.0- 0.1 sec  6.00 MBytes  80.3 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 50160
+[  5]  0.0- 0.1 sec  6.00 MBytes  90.0 MBytes/sec
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 50241
+[  4]  0.0- 0.1 sec  6.00 MBytes  82.1 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 50377
+[  5]  0.0- 0.1 sec  6.00 MBytes   107 MBytes/sec
+[  4] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 50481
+[  4]  0.0- 0.1 sec  6.00 MBytes  76.9 MBytes/sec
+[  5] local 10.0.0.34 port 5001 connected with 10.0.0.33 port 50587
+[  5]  0.0- 0.1 sec  6.00 MBytes  83.9 MBytes/sec

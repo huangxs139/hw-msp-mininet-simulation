@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48174
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.0 sec  2.00 MBytes  52.2 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48227
+[  5]  0.0- 0.0 sec  2.00 MBytes  69.0 MBytes/sec
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48281
+[  4]  0.0- 0.0 sec  2.00 MBytes   132 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48348
+[  5]  0.0- 0.0 sec  2.00 MBytes  63.9 MBytes/sec
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48411
+[  4]  0.0- 0.0 sec  2.00 MBytes  94.9 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48457
+[  5]  0.0- 0.1 sec  2.00 MBytes  40.0 MBytes/sec
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48506
+[  4]  0.0- 0.0 sec  2.00 MBytes  72.6 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48584
+[  5]  0.0- 0.0 sec  2.00 MBytes   120 MBytes/sec
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48636
+[  4]  0.0- 0.0 sec  2.00 MBytes  63.7 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48676
+[  5]  0.0- 0.0 sec  2.00 MBytes  74.2 MBytes/sec
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48735
+[  4]  0.0- 0.0 sec  2.00 MBytes  43.5 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48801
+[  5]  0.0- 0.0 sec  2.00 MBytes  91.4 MBytes/sec
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48845
+[  4]  0.0- 0.1 sec  2.00 MBytes  35.9 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48917
+[  5]  0.0- 0.0 sec  2.00 MBytes  80.3 MBytes/sec
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 48959
+[  4]  0.0- 0.0 sec  2.00 MBytes  88.4 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 49094
+[  5]  0.0- 0.1 sec  2.00 MBytes  19.2 MBytes/sec
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 49230
+[  4]  0.0- 0.1 sec  2.00 MBytes  21.9 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 49338
+[  5]  0.0- 0.1 sec  2.00 MBytes  36.8 MBytes/sec
+[  4] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 49428
+[  4]  0.0- 0.1 sec  2.00 MBytes  24.5 MBytes/sec
+[  5] local 10.0.0.43 port 5001 connected with 10.0.0.42 port 49523
+[  5]  0.0- 0.0 sec  2.00 MBytes  87.0 MBytes/sec

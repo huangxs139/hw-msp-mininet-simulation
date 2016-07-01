@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60046
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  4.00 MBytes  75.3 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60075
+[  5]  0.0- 0.0 sec  4.00 MBytes  93.9 MBytes/sec
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60111
+[  4]  0.0- 0.1 sec  4.00 MBytes  60.6 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60140
+[  5]  0.0- 0.0 sec  4.00 MBytes  97.1 MBytes/sec
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60165
+[  4]  0.0- 0.1 sec  4.00 MBytes  66.3 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60186
+[  5]  0.0- 0.1 sec  4.00 MBytes  42.9 MBytes/sec
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60204
+[  4]  0.0- 0.1 sec  4.00 MBytes  66.6 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60231
+[  5]  0.0- 0.1 sec  4.00 MBytes  64.0 MBytes/sec
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60247
+[  4]  0.0- 0.1 sec  4.00 MBytes  51.4 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60263
+[  5]  0.0- 0.0 sec  4.00 MBytes  87.5 MBytes/sec
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60279
+[  4]  0.0- 0.1 sec  4.00 MBytes  79.9 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60301
+[  5]  0.0- 0.1 sec  4.00 MBytes  79.3 MBytes/sec
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60318
+[  4]  0.0- 0.0 sec  4.00 MBytes  81.9 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60333
+[  5]  0.0- 0.1 sec  4.00 MBytes  69.2 MBytes/sec
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60346
+[  4]  0.0- 0.0 sec  4.00 MBytes  90.8 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.94 port 60355
+[  5]  0.0- 0.1 sec  4.00 MBytes  72.2 MBytes/sec
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.96 port 58643
+[  4]  0.0- 0.0 sec  4.00 MBytes   107 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.96 port 58652
+[  5]  0.0- 0.0 sec  4.00 MBytes  83.6 MBytes/sec
+[  4] local 10.0.0.95 port 5001 connected with 10.0.0.96 port 58658
+[  4]  0.0- 0.1 sec  4.00 MBytes  79.0 MBytes/sec
+[  5] local 10.0.0.95 port 5001 connected with 10.0.0.96 port 58663
+[  5]  0.0- 0.1 sec  4.00 MBytes  72.2 MBytes/sec

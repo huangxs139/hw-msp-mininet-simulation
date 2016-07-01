@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36318
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  8.00 MBytes   113 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36331
+[  5]  0.0- 0.1 sec  8.00 MBytes   110 MBytes/sec
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36350
+[  4]  0.0- 0.1 sec  8.00 MBytes   113 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36376
+[  5]  0.0- 0.1 sec  8.00 MBytes   117 MBytes/sec
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36407
+[  4]  0.0- 0.1 sec  8.00 MBytes  97.6 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36443
+[  5]  0.0- 0.1 sec  8.00 MBytes  96.4 MBytes/sec
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36486
+[  4]  0.0- 0.1 sec  8.00 MBytes   116 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36533
+[  5]  0.0- 0.1 sec  8.00 MBytes   100 MBytes/sec
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36587
+[  4]  0.0- 0.1 sec  8.00 MBytes   110 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36644
+[  5]  0.0- 0.1 sec  8.00 MBytes   103 MBytes/sec
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36698
+[  4]  0.0- 0.1 sec  8.00 MBytes  81.1 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36756
+[  5]  0.0- 0.1 sec  8.00 MBytes  96.2 MBytes/sec
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36816
+[  4]  0.0- 0.1 sec  8.00 MBytes  83.4 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36871
+[  5]  0.0- 0.1 sec  8.00 MBytes   105 MBytes/sec
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36924
+[  4]  0.0- 0.1 sec  8.00 MBytes   112 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 36980
+[  5]  0.0- 0.1 sec  8.00 MBytes  80.3 MBytes/sec
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 37036
+[  4]  0.0- 0.1 sec  8.00 MBytes   106 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 37089
+[  5]  0.0- 0.1 sec  8.00 MBytes  98.5 MBytes/sec
+[  4] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 37147
+[  4]  0.0- 0.1 sec  8.00 MBytes  95.9 MBytes/sec
+[  5] local 10.0.0.3 port 5001 connected with 10.0.0.2 port 37200
+[  5]  0.0- 0.1 sec  8.00 MBytes  81.5 MBytes/sec

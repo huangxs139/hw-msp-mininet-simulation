@@ -1,0 +1,25 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.91 port 5001 connected with 10.0.0.90 port 47700
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.2 sec  14.0 MBytes  78.7 MBytes/sec
+[  5] local 10.0.0.91 port 5001 connected with 10.0.0.90 port 47813
+[  5]  0.0- 0.2 sec  14.0 MBytes  78.6 MBytes/sec
+[  4] local 10.0.0.91 port 5001 connected with 10.0.0.90 port 47868
+[  4]  0.0- 0.3 sec  14.0 MBytes  54.7 MBytes/sec
+[  5] local 10.0.0.91 port 5001 connected with 10.0.0.90 port 47891
+[  5]  0.0- 0.2 sec  14.0 MBytes  60.0 MBytes/sec
+[  4] local 10.0.0.91 port 5001 connected with 10.0.0.92 port 53078
+[  4]  0.0- 0.2 sec  14.0 MBytes  87.7 MBytes/sec
+[  5] local 10.0.0.91 port 5001 connected with 10.0.0.92 port 53092
+[  5]  0.0- 0.2 sec  14.0 MBytes  72.2 MBytes/sec
+[  4] local 10.0.0.91 port 5001 connected with 10.0.0.92 port 53103
+[  4]  0.0- 0.2 sec  14.0 MBytes  91.8 MBytes/sec
+[  5] local 10.0.0.91 port 5001 connected with 10.0.0.92 port 53112
+[  5]  0.0- 0.2 sec  14.0 MBytes  91.5 MBytes/sec
+[  4] local 10.0.0.91 port 5001 connected with 10.0.0.92 port 53126
+[  4]  0.0- 0.1 sec  14.0 MBytes   110 MBytes/sec
+[  5] local 10.0.0.91 port 5001 connected with 10.0.0.92 port 53130
+[  5]  0.0- 0.1 sec  14.0 MBytes   105 MBytes/sec

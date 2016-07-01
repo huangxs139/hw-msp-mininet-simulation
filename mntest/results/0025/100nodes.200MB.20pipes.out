@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 43637
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes   104 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 43676
+[  5]  0.0- 0.1 sec  10.0 MBytes   111 MBytes/sec
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 43707
+[  4]  0.0- 0.1 sec  10.0 MBytes   105 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 43753
+[  5]  0.0- 0.1 sec  10.0 MBytes  98.4 MBytes/sec
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 43811
+[  4]  0.0- 0.1 sec  10.0 MBytes   114 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 43867
+[  5]  0.0- 0.1 sec  10.0 MBytes   101 MBytes/sec
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 43920
+[  4]  0.0- 0.1 sec  10.0 MBytes   103 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 43975
+[  5]  0.0- 0.1 sec  10.0 MBytes   109 MBytes/sec
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44035
+[  4]  0.0- 0.2 sec  10.0 MBytes  65.3 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44076
+[  5]  0.0- 0.1 sec  10.0 MBytes  76.5 MBytes/sec
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44142
+[  4]  0.0- 0.1 sec  10.0 MBytes   104 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44185
+[  5]  0.0- 0.1 sec  10.0 MBytes  96.5 MBytes/sec
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44253
+[  4]  0.0- 0.1 sec  10.0 MBytes   113 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44300
+[  5]  0.0- 0.1 sec  10.0 MBytes   112 MBytes/sec
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44366
+[  4]  0.0- 0.1 sec  10.0 MBytes   102 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44414
+[  5]  0.0- 0.1 sec  10.0 MBytes  88.2 MBytes/sec
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44474
+[  4]  0.0- 0.1 sec  10.0 MBytes  80.4 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44548
+[  5]  0.0- 0.1 sec  10.0 MBytes   101 MBytes/sec
+[  4] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44648
+[  4]  0.0- 0.1 sec  10.0 MBytes  86.7 MBytes/sec
+[  5] local 10.0.0.25 port 5001 connected with 10.0.0.24 port 44770
+[  5]  0.0- 0.1 sec  10.0 MBytes  90.7 MBytes/sec

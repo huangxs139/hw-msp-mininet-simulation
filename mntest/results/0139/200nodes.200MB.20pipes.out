@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53767
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.2 sec  10.0 MBytes  50.0 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53768
+[  5]  0.0- 0.1 sec  10.0 MBytes  90.8 MBytes/sec
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53770
+[  4]  0.0- 0.1 sec  10.0 MBytes  70.0 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53772
+[  5]  0.0- 0.1 sec  10.0 MBytes  76.9 MBytes/sec
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53774
+[  4]  0.0- 0.2 sec  10.0 MBytes  60.7 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53776
+[  5]  0.0- 0.1 sec  10.0 MBytes  76.9 MBytes/sec
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53778
+[  4]  0.0- 0.2 sec  10.0 MBytes  57.3 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53779
+[  5]  0.0- 0.2 sec  10.0 MBytes  65.9 MBytes/sec
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53780
+[  4]  0.0- 0.1 sec  10.0 MBytes  90.1 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53781
+[  5]  0.0- 0.1 sec  10.0 MBytes  86.0 MBytes/sec
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53782
+[  4]  0.0- 0.2 sec  10.0 MBytes  57.9 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53784
+[  5]  0.0- 0.1 sec  10.0 MBytes  75.3 MBytes/sec
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53786
+[  4]  0.0- 0.2 sec  10.0 MBytes  43.4 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53788
+[  5]  0.0- 0.2 sec  10.0 MBytes  55.1 MBytes/sec
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53789
+[  4]  0.0- 0.2 sec  10.0 MBytes  59.4 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53790
+[  5]  0.0- 0.1 sec  10.0 MBytes  87.7 MBytes/sec
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53791
+[  4]  0.0- 0.1 sec  10.0 MBytes  90.5 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53792
+[  5]  0.0- 0.1 sec  10.0 MBytes  74.8 MBytes/sec
+[  4] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53794
+[  4]  0.0- 0.1 sec  10.0 MBytes  72.3 MBytes/sec
+[  5] local 10.0.0.139 port 5001 connected with 10.0.0.138 port 53796
+[  5]  0.0- 0.1 sec  10.0 MBytes  68.5 MBytes/sec

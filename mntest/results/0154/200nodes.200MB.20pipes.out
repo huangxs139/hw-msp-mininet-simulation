@@ -1,0 +1,45 @@
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 0.08 MByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60116
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 0.1 sec  10.0 MBytes  66.8 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60119
+[  5]  0.0- 0.2 sec  10.0 MBytes  62.2 MBytes/sec
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60121
+[  4]  0.0- 0.1 sec  10.0 MBytes  86.1 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60123
+[  5]  0.0- 0.1 sec  10.0 MBytes  79.2 MBytes/sec
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60124
+[  4]  0.0- 0.1 sec  10.0 MBytes  76.6 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60127
+[  5]  0.0- 0.2 sec  10.0 MBytes  61.0 MBytes/sec
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60129
+[  4]  0.0- 0.1 sec  10.0 MBytes  74.5 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60131
+[  5]  0.0- 0.1 sec  10.0 MBytes  90.2 MBytes/sec
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60134
+[  4]  0.0- 0.2 sec  10.0 MBytes  57.1 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60136
+[  5]  0.0- 0.1 sec  10.0 MBytes  78.4 MBytes/sec
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60138
+[  4]  0.0- 0.1 sec  10.0 MBytes  69.7 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60140
+[  5]  0.0- 0.1 sec  10.0 MBytes  76.0 MBytes/sec
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60142
+[  4]  0.0- 0.1 sec  10.0 MBytes  72.6 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60143
+[  5]  0.0- 0.2 sec  10.0 MBytes  43.8 MBytes/sec
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60146
+[  4]  0.0- 0.2 sec  10.0 MBytes  46.8 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60147
+[  5]  0.0- 0.1 sec  10.0 MBytes  78.5 MBytes/sec
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60149
+[  4]  0.0- 0.1 sec  10.0 MBytes  72.2 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60151
+[  5]  0.0- 0.2 sec  10.0 MBytes  60.0 MBytes/sec
+[  4] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60153
+[  4]  0.0- 0.1 sec  10.0 MBytes  75.0 MBytes/sec
+[  5] local 10.0.0.154 port 5001 connected with 10.0.0.153 port 60154
+[  5]  0.0- 0.2 sec  10.0 MBytes  64.2 MBytes/sec
