@@ -75,3 +75,4 @@ them
 directly instead of running new, authentic results. Please hold your faith to your work.
 
 ## License
+[The MIT License](https://github.com/huangxs139/hw-msp-mininet-simulation/blob/master/LICENSE)
